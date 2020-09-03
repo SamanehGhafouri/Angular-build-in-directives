@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NgSwitchExampleComponent } from './ng-switch-example/ng-switch-example.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NgSwitchExampleComponent
   ],
   imports: [
     BrowserModule,
