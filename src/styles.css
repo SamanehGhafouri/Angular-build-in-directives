@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
-
+/*@import "~bootstrap/dist/css/bootstrap.css";*/
+@import "~semantic-ui-css/semantic.css";
+body{background: #403434
+}
 .ui.menu .header.item > img.logo {
   margin-right: 12px; }
 

@@ -1,0 +1,11 @@
+.ui.horizontal.divider.header{
+  padding-top: 40px;
+  color: yellow;
+  font-weight: bold;
+  border-color: #1a531b;
+}
+
+.ui.raised.segment{
+  background: #6b9593;
+}
+
