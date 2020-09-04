@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NgSwitchExampleComponent } from './ng-switch-example/ng-switch-example.component';
 import { NgStyleExampleComponent } from './ng-style-example/ng-style-example.component';
 import { NgClassExampleComponent } from './ng-class-example/ng-class-example.component';
+import { NgForExampleComponent } from './ng-for-example/ng-for-example.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NgSwitchExampleComponent,
     NgStyleExampleComponent,
-    NgClassExampleComponent
+    NgClassExampleComponent,
+    NgForExampleComponent
   ],
   imports: [
     BrowserModule,

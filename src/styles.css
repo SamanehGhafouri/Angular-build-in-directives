@@ -3,6 +3,11 @@
 @import "~semantic-ui-css/semantic.css";
 body{background: #dcefed
 }
+.body{
+  padding-left: 10px;
+}
+
+
 .ui.menu .header.item > img.logo {
   margin-right: 12px; }
 
